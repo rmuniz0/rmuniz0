@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rmuniz0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmuniz0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&custom_title=Linguagens%20mais%20utilizadas!%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmuniz0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&custom_title=Linguagens%20mais%20utilizadas!%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" height="180" alt="languages graph"  />
 </div>
 
 ###
