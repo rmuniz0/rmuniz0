@@ -1,4 +1,4 @@
-<h2 align="left">Olá, David Rodrigues aqui! 👋<br>Estudante de Analise e Desenvolvimento de Sistemas com conhecimento em Desenvolvimento Web e Scripts.</h2>
+<h2 align="left">Olá, David Rodrigues aqui! 👋<br>Estudante de Analise e Desenvolvimento de Sistemas com conhecimento em Desenvolvimento Web, Scripts e Segurança da Informação.</h2>
 
 ###
 
